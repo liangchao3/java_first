@@ -1,0 +1,5 @@
+Git 提交单个文件
+
+git add <文件路径>(git add src/example.txt_)//在当前文件夹下直接文件名.类型即可
+git commit -m "提交说明"（git commit -m "修复了example.txt中的拼写错误"）
+git push origin <分支名>（git push origin main）
